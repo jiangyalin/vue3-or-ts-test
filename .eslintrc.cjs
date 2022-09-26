@@ -319,7 +319,7 @@ module.exports = {
 
     // TYPE 其他
     'no-unused-vars': 'off',
-    'no-tabs': 'off',
+    // 'no-tabs': 'off',
     'no-mixed-spaces-and-tabs': ['error', 'smart-tabs']
   }
 }
