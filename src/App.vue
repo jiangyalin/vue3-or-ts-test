@@ -26,6 +26,13 @@ import HelloWorld from './components/HelloWorld.vue'
   <router-view />
 </template>
 
+<style lang="scss">
+.logo {
+  .wrapper {
+  }
+}
+</style>
+
 <style scoped>
 header {
   line-height: 1.5;
